@@ -2,6 +2,8 @@
 
 Simple list of SEO tags to use on Hugo based websites.
 
+More insights about the origins and why of thi are in this article: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
+
 ### `config.toml`
 
 An example config file to help with everything we use in the meta tags.
