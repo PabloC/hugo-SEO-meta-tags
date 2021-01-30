@@ -2,7 +2,7 @@
 
 Simple list of SEO tags to use on Hugo based websites.
 
-More insights about the origins and why of thi are in this article: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
+More insights in this article: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
 
 ### `config.toml`
 
